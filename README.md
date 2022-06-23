@@ -4,8 +4,8 @@
 # tech dependencies
  -pg aka postgres
  -express
- -cors
- -nodemon (script: "start", set to watch "app.js")
+ --cors
+ --nodemon (script: "start", set to watch "app.js")
 
 
 # get the app running 
